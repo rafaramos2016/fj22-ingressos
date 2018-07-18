@@ -150,4 +150,12 @@
         </plugins>
     </build>
 
+<!-- restante omitido -->
+<developers>
+	<developer>
+		<name>Rafael Ramos</name>
+		<email>rafaelframos@gmail.com</email>
+	</developer>
+</developers>
+
 </project>
